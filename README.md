@@ -18,7 +18,7 @@ This project demonstrates the Fast Gradient Sign Method (FGSM) attack on a Convo
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/tydel4/fgsm-ai-model-cybersecurity-attack>
     cd fgsm-ai-model-cybersecurity-attack
     ```
 2.  **Install dependencies:**
